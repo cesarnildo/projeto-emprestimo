@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "AnwLSmByTRE1Omf2uG7JWx4WnJc1yI1xELyNoqP5HMD1qnMNPVZdr4/RQ4lNIKg9AlA/pD+i1izWUkhow5E3cQ==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\slnEmprestimo\\EmprestimoJogoApi\\EmprestimoJogoApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CESAR NILDO\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\CESAR NILDO\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\CESAR NILDO\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\CESAR NILDO\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\CESAR NILDO\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\CESAR NILDO\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

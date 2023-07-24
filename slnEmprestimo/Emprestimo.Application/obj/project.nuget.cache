@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9hrKcmmDkRdOj+fLKch1gkqmxE2hv9iyPfeWutKUnOJpGRwSsjDTY8DW+4fspjBjCS4JwnBJwIO8Hczkze440w==",
+  "success": true,
+  "projectFilePath": "c:\\dev\\slnEmprestimo\\Emprestimo.Application\\Emprestimo.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cesar.oliveira\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\cesar.oliveira\\.nuget\\packages\\fluentvalidation\\11.6.0\\fluentvalidation.11.6.0.nupkg.sha512",
+    "C:\\Users\\cesar.oliveira\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

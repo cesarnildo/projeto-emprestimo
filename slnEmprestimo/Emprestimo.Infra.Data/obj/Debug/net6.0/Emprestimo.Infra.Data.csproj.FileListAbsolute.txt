@@ -1,0 +1,17 @@
+C:\dev\slnEmprestimo\Emprestimo.Infra.Data\bin\Debug\net6.0\Emprestimo.Infra.Data.deps.json
+C:\dev\slnEmprestimo\Emprestimo.Infra.Data\bin\Debug\net6.0\Emprestimo.Infra.Data.runtimeconfig.json
+C:\dev\slnEmprestimo\Emprestimo.Infra.Data\bin\Debug\net6.0\Emprestimo.Infra.Data.dll
+C:\dev\slnEmprestimo\Emprestimo.Infra.Data\bin\Debug\net6.0\Emprestimo.Infra.Data.pdb
+C:\dev\slnEmprestimo\Emprestimo.Infra.Data\bin\Debug\net6.0\Emprestimo.Domain.dll
+C:\dev\slnEmprestimo\Emprestimo.Infra.Data\bin\Debug\net6.0\Emprestimo.Domain.pdb
+C:\dev\slnEmprestimo\Emprestimo.Infra.Data\obj\Debug\net6.0\Emprestimo.Infra.Data.csproj.AssemblyReference.cache
+C:\dev\slnEmprestimo\Emprestimo.Infra.Data\obj\Debug\net6.0\Emprestimo.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\slnEmprestimo\Emprestimo.Infra.Data\obj\Debug\net6.0\Emprestimo.Infra.Data.AssemblyInfoInputs.cache
+C:\dev\slnEmprestimo\Emprestimo.Infra.Data\obj\Debug\net6.0\Emprestimo.Infra.Data.AssemblyInfo.cs
+C:\dev\slnEmprestimo\Emprestimo.Infra.Data\obj\Debug\net6.0\Emprestimo.Infra.Data.csproj.CoreCompileInputs.cache
+C:\dev\slnEmprestimo\Emprestimo.Infra.Data\obj\Debug\net6.0\Emprestimo.Infra.Data.csproj.CopyComplete
+C:\dev\slnEmprestimo\Emprestimo.Infra.Data\obj\Debug\net6.0\Emprestimo.Infra.Data.dll
+C:\dev\slnEmprestimo\Emprestimo.Infra.Data\obj\Debug\net6.0\refint\Emprestimo.Infra.Data.dll
+C:\dev\slnEmprestimo\Emprestimo.Infra.Data\obj\Debug\net6.0\Emprestimo.Infra.Data.pdb
+C:\dev\slnEmprestimo\Emprestimo.Infra.Data\obj\Debug\net6.0\Emprestimo.Infra.Data.genruntimeconfig.cache
+C:\dev\slnEmprestimo\Emprestimo.Infra.Data\obj\Debug\net6.0\ref\Emprestimo.Infra.Data.dll

@@ -1,0 +1,12 @@
+C:\dev\slnEmprestimo\Emprestimo.Domain\bin\Debug\net6.0\Emprestimo.Domain.deps.json
+C:\dev\slnEmprestimo\Emprestimo.Domain\bin\Debug\net6.0\Emprestimo.Domain.dll
+C:\dev\slnEmprestimo\Emprestimo.Domain\bin\Debug\net6.0\Emprestimo.Domain.pdb
+C:\dev\slnEmprestimo\Emprestimo.Domain\obj\Debug\net6.0\Emprestimo.Domain.csproj.AssemblyReference.cache
+C:\dev\slnEmprestimo\Emprestimo.Domain\obj\Debug\net6.0\Emprestimo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\slnEmprestimo\Emprestimo.Domain\obj\Debug\net6.0\Emprestimo.Domain.AssemblyInfoInputs.cache
+C:\dev\slnEmprestimo\Emprestimo.Domain\obj\Debug\net6.0\Emprestimo.Domain.AssemblyInfo.cs
+C:\dev\slnEmprestimo\Emprestimo.Domain\obj\Debug\net6.0\Emprestimo.Domain.csproj.CoreCompileInputs.cache
+C:\dev\slnEmprestimo\Emprestimo.Domain\obj\Debug\net6.0\Emprestimo.Domain.dll
+C:\dev\slnEmprestimo\Emprestimo.Domain\obj\Debug\net6.0\refint\Emprestimo.Domain.dll
+C:\dev\slnEmprestimo\Emprestimo.Domain\obj\Debug\net6.0\Emprestimo.Domain.pdb
+C:\dev\slnEmprestimo\Emprestimo.Domain\obj\Debug\net6.0\ref\Emprestimo.Domain.dll
